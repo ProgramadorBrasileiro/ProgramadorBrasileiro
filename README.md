@@ -2,11 +2,9 @@
 ## ⚡ Technologies
 
 ###### Game
-![Raylib](https://img.shields.io/badge/_-Raylib-292e33?style=flat-square&logo=raylib&logoColor=f5f5ff)
 ![Unreal](https://img.shields.io/badge/_-Unreal-292e33?style=flat-square&logo=unreal%20engine&logoColor=fff)
 ![Unity](https://img.shields.io/badge/_-Unity-292e33?style=flat-square&logo=unity&logoColor=fff)
 ![Godot](https://img.shields.io/badge/_-Godot-292e33?style=flat-square&logo=godot%20engine&logoColor=fff)
-![Pygame](https://img.shields.io/badge/_-Pygame-292e33?style=flat-square&logo=python&logoColor=fff)
 
 
 ###### Project Managment / Configuration Control
