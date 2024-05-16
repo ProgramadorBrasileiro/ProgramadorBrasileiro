@@ -9,7 +9,6 @@
 ###### Languages / Frameworks
 ![CSharp](https://img.shields.io/badge/_-C%23-292e33?style=flat-square&logo=csharp&logoColor=white) ![CSharp](https://img.shields.io/badge/_-C%2B%2B-292e33?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/_-C-292e33?style=flat-square&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/_-Lua-292e33?style=flat-square&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 
 ###### Project Managment / Configuration Control
 ![Trello](https://img.shields.io/badge/_-Trello-292e33?style=flat-square&logo=trello&logoColor=fff)
