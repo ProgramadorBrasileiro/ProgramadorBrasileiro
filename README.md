@@ -9,8 +9,6 @@
 ###### Languages / Frameworks
 ![CSharp](https://img.shields.io/badge/_-C%23-292e33?style=flat-square&logo=csharp&logoColor=white) ![CSharp](https://img.shields.io/badge/_-C%2B%2B-292e33?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/_-C-292e33?style=flat-square&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/_-Lua-292e33?style=flat-square&logo=lua&logoColor=white)
-![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/_-Flutter-292e33?style=flat-square&logo=flutter&logoColor=white)
 
 ###### Project Managment / Configuration Control
 ![Trello](https://img.shields.io/badge/_-Trello-292e33?style=flat-square&logo=trello&logoColor=fff)
@@ -19,7 +17,8 @@
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/_-Bitbucket-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
-
+![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/_-Flutter-292e33?style=flat-square&logo=flutter&logoColor=white)
 
 
 
