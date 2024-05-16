@@ -6,13 +6,15 @@
 ![Unity](https://img.shields.io/badge/_-Unity-292e33?style=flat-square&logo=unity&logoColor=fff)
 ![Godot](https://img.shields.io/badge/_-Godot-292e33?style=flat-square&logo=godot%20engine&logoColor=fff)
 
-###### Languages / Frameworks
+###### Languages 
 ![CSharp](https://img.shields.io/badge/_-C%23-292e33?style=flat-square&logo=csharp&logoColor=white) ![CSharp](https://img.shields.io/badge/_-C%2B%2B-292e33?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/_-C-292e33?style=flat-square&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/_-Lua-292e33?style=flat-square&logo=lua&logoColor=white)
 
 ###### Project Managment / Configuration Control
 ![Trello](https://img.shields.io/badge/_-Trello-292e33?style=flat-square&logo=trello&logoColor=fff)
 ![Notion](https://img.shields.io/badge/_-Notion-292e33?style=flat-square&logo=notion&logoColor=fff)
+![NET](https://img.shields.io/badge/_-Neovim-292e33?style=flat-square&logo=neovim&logoColor=fff](https://img.shields.io/badge/_-.NET-292e33?style=flat-square&logo=neovim&logoColor=fff)
+
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
