@@ -9,6 +9,7 @@
 ###### Languages / Frameworks
 ![CSharp](https://img.shields.io/badge/_-C%23-292e33?style=flat-square&logo=csharp&logoColor=white) ![CSharp](https://img.shields.io/badge/_-C%2B%2B-292e33?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/_-C-292e33?style=flat-square&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/_-Lua-292e33?style=flat-square&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 
 ###### Project Managment / Configuration Control
 ![Trello](https://img.shields.io/badge/_-Trello-292e33?style=flat-square&logo=trello&logoColor=fff)
@@ -23,7 +24,6 @@
 
 ###### IDEs / Cloud Platform
 
-![JetBrains Rider](https://img.shields.io/badge/_-Rider-292e33?style=flat-square&logo=rider&logoColor=fff)
 ![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
 
