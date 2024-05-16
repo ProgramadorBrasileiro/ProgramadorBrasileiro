@@ -1,15 +1,9 @@
 
 ## Hey,  here!
 
-<img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+<img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"> 
 
 
-I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazil:.
-
--   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
--   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
--   :pencil2: Arch Linux / i3 / Oh My Zsh / NVim
--   :paperclip: [Portfolio](https://portfolio.peres.dev/) | [Resume](https://resume.peres.dev/) | [Bio](https://leandro.peres.dev/)
 
 ---
 
