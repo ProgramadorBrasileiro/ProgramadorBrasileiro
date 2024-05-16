@@ -13,7 +13,7 @@
 ###### Project Managment / Configuration Control
 ![Trello](https://img.shields.io/badge/_-Trello-292e33?style=flat-square&logo=trello&logoColor=fff)
 ![Notion](https://img.shields.io/badge/_-Notion-292e33?style=flat-square&logo=notion&logoColor=fff)
-![Neovim](https://img.shields.io/badge/_-Neovim-292e33?style=flat-square&logo=neovim&logoColor=fff](https://img.shields.io/badge/_-.NET-292e33?style=flat-square&logo=neovim&logoColor=fff)
+![Neovim](https://img.shields.io/badge/_-.NET-292e33?style=flat-square&logo=neovim&logoColor=fff)
 
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
