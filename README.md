@@ -15,27 +15,13 @@
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/_-Bitbucket-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
 
-###### Web
-![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
-
-![Jekyll](https://img.shields.io/badge/_-Jekyll-292e33?style=flat-square&logo=jekyll&logoColor=white)
 
 ###### Languages / Frameworks
 ![CSharp](https://img.shields.io/badge/_-C%23-292e33?style=flat-square&logo=csharp&logoColor=white) ![CSharp](https://img.shields.io/badge/_-C%2B%2B-292e33?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/_-C-292e33?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/_-Python-292e33?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/_-PHP-292e33?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/_-Java-292e33?style=flat-square&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/_-Lua-292e33?style=flat-square&logo=lua&logoColor=white)
-
-![Cg/HLSL](https://img.shields.io/badge/_-Cg%2FHLSL-292e33?style=flat-square&logo=nvidia&logoColor=fff) ![OpenGL](https://img.shields.io/badge/_-OpenGL-292e33?style=flat-square&logo=opengl&logoColor=white) ![Vulkan](https://img.shields.io/badge/_-Vulkan-292e33?style=flat-square&logo=vulkan&logoColor=white)
-
-![Electron](https://img.shields.io/badge/_-Electron-292e33?style=flat-square&logo=electron&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/_-Flutter-292e33?style=flat-square&logo=flutter&logoColor=white)
-![Apache](https://img.shields.io/badge/_-Apache-292e33?style=flat-square&logo=apache&logoColor=white)
 
 ###### Data Base
 ![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=mysql&logoColor=white)
