@@ -27,25 +27,6 @@
 ![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
 
-## 📊 Data
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C285%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 344 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
