@@ -13,14 +13,12 @@
 ###### Project Managment / Configuration Control
 ![Trello](https://img.shields.io/badge/_-Jira-292e33?style=flat-square&logo=trello&logoColor=fff)
 ![Notion](https://img.shields.io/badge/_-Notion-292e33?style=flat-square&logo=notion&logoColor=fff)
-![Neovim](https://img.shields.io/badge/_-.NET-292e33?style=flat-square&logo=neovim&logoColor=fff)
-
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/_-Bitbucket-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
-![Apache](https://img.shields.io/badge/_-.NET-292e33?style=flat-square&logo=apache&logoColor=white)
+![Apache](https://img.shields.io/badge/_-ASPNET-292e33?style=flat-square&logo=apache&logoColor=white)
 
 
 
