@@ -17,10 +17,6 @@
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/_-Bitbucket-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
-![Apache](https://img.shields.io/badge/_-NET-292e33?style=flat-square&logo=apache&logoColor=white)
-![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
-
-
 
 
 ###### IDEs / Cloud Platform
@@ -54,22 +50,14 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Sao_Paulo
+🕑︎ Time Zone: America/Belo_Horizonte
 
 💬 Programming Languages: 
 C#                       14 hrs 48 mins      ██████████████████░░░░░░░   73.08 % 
 C++                      4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   22.64 %
 C                        13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Lua                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
 Assembly                 07 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-JavaScript               06 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-
-🐱‍💻 Projects: 
-Programmer               15 hrs 15 mins      ███████████████████░░░░░░   75.24 % 
-LuminaGL                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Dura2D                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-NES                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Vulkano                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Lua                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
 
 💻 Operating System: 
 Linux                    15 hrs 21 mins      ███████████████████░░░░░░   75.73 % 
