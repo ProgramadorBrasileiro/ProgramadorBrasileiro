@@ -25,6 +25,7 @@
 
 ###### IDEs / Cloud Platform
 
+![vscode](https://img.shields.io/badge/_-Visual%20Studio-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
 
