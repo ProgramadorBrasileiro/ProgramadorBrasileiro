@@ -22,13 +22,10 @@
 
 
 
-###### Data Base / IDEs /  Cloud Platform
-![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=mongodb&logoColor=white)
+###### IDEs / Cloud Platform
 
 ![JetBrains Rider](https://img.shields.io/badge/_-Rider-292e33?style=flat-square&logo=rider&logoColor=fff)
 ![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
 
 ## 📊 Data
