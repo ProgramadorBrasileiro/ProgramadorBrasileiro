@@ -22,21 +22,13 @@
 
 
 
-###### Data Base
+###### Data Base / IDEs /  Cloud Platform
 ![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=mongodb&logoColor=white)
 
-###### IDEs
-![Neovim](https://img.shields.io/badge/_-Neovim-292e33?style=flat-square&logo=neovim&logoColor=fff)
-![Vim](https://img.shields.io/badge/_-Vim-292e33?style=flat-square&logo=vim&logoColor=fff)
 ![JetBrains Rider](https://img.shields.io/badge/_-Rider-292e33?style=flat-square&logo=rider&logoColor=fff)
-![CLion](https://img.shields.io/badge/_-CLion-292e33?style=flat-square&logo=clion&logoColor=fff)
 ![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Microsoft Word](https://img.shields.io/badge/_-Microsoft%20Word-292e33?style=flat-square&logo=microsoft%20word&logoColor=fff)
 
-###### Cloud Platform
-
-![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
 
 ## 📊 Data
